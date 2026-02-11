@@ -1,0 +1,20 @@
+# Archivos de configuración sensibles
+config.php
+
+# Certificados y claves privadas
+*.pfx
+*.p12
+*.pem
+*.key
+
+# Archivos generados
+archives/
+*.log
+
+# Dependencias
+vendor/
+node_modules/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
